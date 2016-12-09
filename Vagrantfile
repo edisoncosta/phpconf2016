@@ -21,7 +21,7 @@ Vagrant.configure(2) do |config|
     end
     
     config.vmprovision "shell",
-      inline: "sudo wget -qO ac git.io/xxxx && sudo bash ac"
+      inline: "sudo wget -qO ac git.io/v1aNA && sudo bash ac"
 	
   end
   
