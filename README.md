@@ -56,3 +56,4 @@ https://atlas.hashicorp.com/account/new
 - Skype: agiuscloud
 - Facebook: edisonpcosta
 - Linkedin: edisonpcosta
+- EasyExpert: https://easyengine.io/easyexperts/edison-costa/
