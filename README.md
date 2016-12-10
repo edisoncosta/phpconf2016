@@ -53,3 +53,6 @@ https://atlas.hashicorp.com/account/new
 ### Contatos
 - Email: edison@agiuscloud.com
 - Site: http://agiuscloud.com
+- Skype: agiuscloud
+- Facebook: edisonpcosta
+- Linkedin: edisonpcosta
