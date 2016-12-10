@@ -17,7 +17,7 @@ Vagrant.configure(2) do |config|
 
     server.vm.provider "virtualbox" do |vb|
       vb.memory = "1024"
-      vb.name = "news"
+      vb.name = "debian8"
     end
     
     config.vmprovision "shell",
