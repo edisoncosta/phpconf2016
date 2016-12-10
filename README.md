@@ -44,7 +44,7 @@ Exemplos e Links utilizados na palestra.
 ### Composer
 - https://getcomposer.org/
 
-### Conta na Atlas Hasicorp
+### Conta na Atlas Hashicorp
 https://atlas.hashicorp.com/account/new
 
 ### BitBucket
