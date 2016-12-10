@@ -50,6 +50,9 @@ https://atlas.hashicorp.com/account/new
 ### BitBucket
 - https://bitbucket.org/
 
+### DeployBot
+- https://deploybot.com/
+
 ### Contatos
 - Email: edison@agiuscloud.com
 - Site: http://agiuscloud.com
